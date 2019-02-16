@@ -21,7 +21,7 @@
 
 ## 完成イメージ
 
-![challenge-final](../images/challenge-final.png)
+![challenge-final](https://firebasestorage.googleapis.com/v0/b/codegrit-188601.appspot.com/o/material-images%2Fjs-unit02%2Flesson11%2Fchallenge-final.png?alt=media&token=ce501588-57d5-4a38-aa9d-5bbe04c54ee8)
 
 ## スターターファイル
 
